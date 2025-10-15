@@ -414,7 +414,7 @@ for angle in [0°, 15°, 30°, ..., 345°]:
 └────────────────────────────────────────────────────────────────┘
 ```
 
-![데모](https://github.com/user-attachments/assets/당구장1.png)
+![데모](https://github.com/dldbsgud0806-code/-ai-/issues/1#issue-3518326074)
 
 *실제 구현 시 당구대, 공, 예상 경로가 실시간으로 화면에 오버레이됩니다.*
 
