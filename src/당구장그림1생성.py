@@ -249,7 +249,7 @@ def create_billiard_hit_point_image():
     
     return img
 
-# 이미지 생성 및 저장
+# 이미지 생성 및 저장!!
 if __name__ == "__main__":
     print("이미지 생성 중...")
     img = create_billiard_hit_point_image()
@@ -260,4 +260,5 @@ if __name__ == "__main__":
     print(f"✅ 고해상도 이미지가 생성되었습니다: {filename}")
     print(f"크기: 2400x1200 픽셀 (300 DPI)")
     print(f"Word에서 작은 크기로 삽입해도 선명합니다!")
+
 
